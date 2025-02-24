@@ -2,7 +2,9 @@
 
 ## What does it do?
 
-1.0.0: TCEMAIN - disableHideAtCopy - pages copied will be enabled by default
+1.0.0: TCEMAIN - disableHideAtCopy - records copied will be enabled by default
+
+1.1.0: TCEMAIN - disablePrependAtCopy - records copied will not have (copy 1) appended
 
 ## Installation
 
