@@ -1,0 +1,7 @@
+TCEMAIN {
+    table {
+        tt_content {
+            disableHideAtCopy = 1
+        }
+    }
+}
