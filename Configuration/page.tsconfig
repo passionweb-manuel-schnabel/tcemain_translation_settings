@@ -8,4 +8,7 @@ TCEMAIN {
             disablePrependAtCopy = 1
         }
     }
+
+    #removes 'Translate to' prefix
+    translateToMessage =
 }

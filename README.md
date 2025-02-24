@@ -6,6 +6,9 @@
 
 1.1.0: TCEMAIN - disablePrependAtCopy - records copied will not have (copy 1) appended
 
+1.2.0: TCEMAIN - translateToMessage - removes 'Translate to' prefix
+
+
 ## Installation
 
 Add via composer:
