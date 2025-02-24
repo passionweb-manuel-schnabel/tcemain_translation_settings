@@ -2,13 +2,15 @@
 
 ## What does it do?
 
-Adjusts the TCEMAIN Configuration to introduce specific settings
+1.0.0: TCEMAIN - hideAtCopy - pages are not being disabled after copy
+
+1.1.0: TCEMAIN - prependAtCopy - pages will not have 'copy 1' appended after copy
 
 ## Installation
 
 Add via composer:
 
-    composer require "passionweb/..."
+    composer require "passionweb/tcemain-translation-configuration"
 
 * Install the extension via composer
 * Flush TYPO3 and PHP Cache
