@@ -1,10 +1,6 @@
 TCEMAIN {
     table {
         tt_content {
-            #pages will not have 'copy 1' appended after copy
-            disablePrependAtCopy = 1
-
-            #pages are not being disabled after copy
             disableHideAtCopy = 1
         }
     }

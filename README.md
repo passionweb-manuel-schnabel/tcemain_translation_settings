@@ -2,9 +2,7 @@
 
 ## What does it do?
 
-1.0.0: TCEMAIN - hideAtCopy - pages are not being disabled after copy
-
-1.1.0: TCEMAIN - prependAtCopy - pages will not have 'copy 1' appended after copy
+1.0.0: TCEMAIN-disableHideAtCopy - pages copied will be enabled by default
 
 ## Installation
 
